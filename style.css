@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+    margin: 0;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+section{
+ background-color: rgb(130, 124, 124);
+ padding: 40px;
+ border-radius: 20px;
+
+}#BotaoClique{
+    border-radius: 20px;
+ padding: 70px;
+  background-color: red;
+  box-shadow: 2px 2px 9px rgba(128, 128, 128, 0.526);
+  cursor: pointer;
+}#BotaoReset{
+padding: 70px;
+  background-color: red;
+  box-shadow: 2px 2px 9px rgba(128, 128, 128, 0.526);
+  cursor: pointer;
+}#ImgGitHub{
+    height: 40px;
+    border-radius: 100%;
+}footer{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    
+}
